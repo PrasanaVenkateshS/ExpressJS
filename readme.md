@@ -1,6 +1,6 @@
 Rate limiting.
 
-1. Spin up a redis container using Docker in port 6379.
+1. Spin up a redis container using Docker in port 6379. (https://sunitc.dev/2018/04/12/redis-basics-installation-datastructures/)
 2. Clone the project.
 3. npm install inside the src folder.
 4. node app.js to run server on port 3000.
